@@ -1,14 +1,25 @@
 /* SavingsCalculator.css */
 
+body {
+  background-color: #1D3557;
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+  font-family:'Inter';
+  
+}
+
 .savings-calculator {
-  max-width: 300px;
+  max-width: 600px;
   margin: 50px auto;
-  padding: 20px;
+  padding: 80px;
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   text-align: center;
-  background-color: #f4f4f4;
+  background-color: #F1FAEE;
 }
+
 
 .videos-section {
   display: flex;
@@ -20,10 +31,16 @@
   width: 45%;
   text-align: center;
   margin-bottom: 20px;
+  color: beige;
+  font-weight: lighter;
 }
 
 h2 {
   color: #333;
+}
+h3 {
+  font-weight: 400;
+  font-size: larger;
 }
 
 label {
@@ -40,7 +57,7 @@ input {
 }
 
 button {
-  background-color: #4caf50;
+  background-color: #457B9D;
   color: white;
   padding: 10px 15px;
   border: none;
