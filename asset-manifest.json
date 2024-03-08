@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fedex/static/css/main.b7e85b92.css",
+    "main.js": "/fedex/static/js/main.83648bcc.js",
+    "index.html": "/fedex/index.html",
+    "main.b7e85b92.css.map": "/fedex/static/css/main.b7e85b92.css.map",
+    "main.83648bcc.js.map": "/fedex/static/js/main.83648bcc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7e85b92.css",
+    "static/js/main.83648bcc.js"
+  ]
+}
